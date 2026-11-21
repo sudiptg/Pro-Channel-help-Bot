@@ -1,0 +1,6 @@
+Flask==3.0.3
+Werkzeug==3.0.4
+requests>=2.31
+pymongo>=4.7,<5
+dnspython>=2.4.2
+certifi
